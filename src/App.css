@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+header{
+    padding: 31px 0;
+
+}
+.container{
+        display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #4D4D4D;
+    
+}
+.btn{
+    width: 150px;
+    height: 38px;
+    border-radius: 5px;
+    background: #4CAF4F;
+    border: none;
+    color: white    ;
+}
+.a img{
+    width: 200px;
+}
+h1{
+    font-family: Inter;
+font-weight: 600;
+font-size: 21.37px;
+line-height: 25.37px;
+letter-spacing: 0%;
+color: #4D4D4D;
+padding-bottom: 5px;
+font-size:   40px;;
+
+}
+h2{
+    color: #4CAF4F;
+    font-size: 40px;
+    padding-bottom: 5px;
+}
+.hero{
+    margin-top: 55px;
+    background: #F5F7FA;
+    height: 500px;
+    padding: 52px 42px;
+}
+.hero p{
+    color: #717171;
+    padding-bottom: 10px;
+}
+.btn2{
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background:#4CAF4F;
+    border: none;
+}
+.b img{
+    width: 400px;
+}
+.hero2{
+    margin: 50px;
+
+}
+.text2 h3{
+    color: #4D4D4D;
+    font-size: 40px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.text2 p{
+    color: #717171;
+    text-align: center; 
+    padding-bottom: 30px;
+}
+.ma  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+      
+        gap: 50px;
+
+}
+.ma img{
+
+}
+.img{
+  padding-top: 10px;
+        font-size: 400px;
+}
+
+
+.hero3 h1{
+    text-align: center;
+    line-height: 50px;
+}
+.card{
+    width: 200px;
+    height: 230px;
+    margin-bottom: 200px;
+    text-align: center;
+    border: 2px solid black;
+}
+.card img{
+   width: 80px;
+}
+.card h3{
+    padding: 5px;
+    color: #4D4D4D;
+}
+.card p{
+    color: #717171;
+}
+.ota{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.text3{
+    width: 720px;
+    height: 91px;
+}
+footer img{
+    width: 500px;
+}
+footer h1{
+    line-height: 50px;
+}
+footer p{
+    color: #4D4D4D;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
